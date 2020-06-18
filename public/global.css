@@ -66,13 +66,13 @@ button:focus {
 	border-color: #666;
 }
 
-svg {
+.crane {
 	position: absolute;
-	top: 30px;
-	left: 300px;
-	height: 60%;
-	width: 60%;
+	left: 30%;
+	height: 50%;
+	width: 50%;
 }
+
 path {
 	stroke: #000000;
 	fill: #ffffff;

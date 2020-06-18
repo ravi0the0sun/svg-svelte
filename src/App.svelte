@@ -31,7 +31,7 @@
 <div class="crane">
 	<svg
 	sodipodi:docname="vector-butterfly.svg"
-	viewBox="0 0 460 460">  
+	viewBox="0 0 300 300 ">  
 	<g out:fade="{{duration: 200}}">
 		<path in:draw="{{duration}}"
 		d={data}/>
