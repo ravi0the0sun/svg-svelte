@@ -22,7 +22,7 @@
 		document.querySelectorAll('path').forEach(path => {
 				path.style.fill = 'black';
 		})
-	}, 2000);
+	}, 1000);
 	}
 </script>
 

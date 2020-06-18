@@ -67,10 +67,11 @@ button:focus {
 }
 
 svg {
-	position: absolute !important;
-	top: 30px !important;
-	left: 300px !important;
-	height: 95vh;
+	position: absolute;
+	top: 30px;
+	left: 300px;
+	height: 60%;
+	width: 60%;
 }
 path {
 	stroke: #000000;
