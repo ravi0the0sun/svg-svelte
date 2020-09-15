@@ -16,6 +16,5 @@
 			<li><a href="#/butterfly">Butterfly</a></li>
 		</ul>
 	</nav>
-	<Router {routes}/>
 	
 </body>
