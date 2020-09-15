@@ -26,8 +26,16 @@
 	}
 </script>
 
+<body>
 <button on:click={clickHandler}>click me</button>
-{#if view}
+	<nav>
+		<ul>
+			<li><a href="#/">Crane</a></li>
+			<li><a href="#/cup">Cup</a></li>
+			<li><a href="#/butterfly">Butterfly</a></li>
+		</ul>
+	</nav>
+	{#if view}
 <div class="crane">
 	<svg
 	sodipodi:docname="vector-butterfly.svg"
@@ -39,3 +47,4 @@
 	</svg>
 </div>
 {/if}
+</body>
